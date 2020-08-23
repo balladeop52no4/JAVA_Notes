@@ -19,5 +19,7 @@
 ## JAVA EE
 JSP/Servlet學習的部分以線上課程<a href="https://www.udemy.com/course/jsp-tutorial/"><JSP, Servlets and JDBC for Beginners: Build a Database App></a>為主，所以以下筆記內容以破英文書寫：
   
-<a href="https://github.com/balladeop52no4/JAVA_Notes/issues/20">Servlet基礎</a>
-<a href="https://github.com/balladeop52no4/JAVA_Notes/issues/21">JSP基礎，以及JSTL</a>
+<ul>
+<li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/20">Servlet基礎</a></li>
+<li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/21">JSP基礎，以及JSTL</a></li>
+</ul>
