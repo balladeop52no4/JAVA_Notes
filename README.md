@@ -1,5 +1,5 @@
-# 一切都是因為...
-2020.7.11 我以為自己已經做好準備，但其實還差得遠了。當我知道有可能沒辦法在近期一蹴可幾的時候，我決定放下過去的一切，從頭開始，從基本開始。
+# 一開始都是最難的...
+放下過去的一切，從頭開始，從基本開始。
 
 
 ## JAVA 基礎語法
@@ -13,3 +13,8 @@
 <br>
 <br>
 <br>
+
+## JAVA EE
+JSP/Servlet的部分以線上課程<a href="https://www.udemy.com/course/jsp-tutorial/"><JSP, Servlets and JDBC for Beginners: Build a Database App></a>為主，所以以下筆記內容以破英文書寫：
+<a href="#">Servlet</a>
+<a href="#">JSP</a>
