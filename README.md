@@ -4,7 +4,7 @@
 
 有種回到當學生時的感覺
 
-<img src="https://i.imgur.com/E4i7Xdf.png" width=600 height=800 border=0/>
+<img src="https://i.imgur.com/E4i7Xdf.png" width=400 height=600 border=0/>
 
 這份repo裡面所有的筆記大部分從本書參考而來。
 
