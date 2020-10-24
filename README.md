@@ -1,14 +1,7 @@
 
 
-# 萬事起頭難
+# 郎畮喜挖台欸啦
 
-有種回到當學生時的感覺
-
-<img src="https://i.imgur.com/E4i7Xdf.png" width=400 height=450 border=0/>
-
-這份repo裡面所有關於JAVA SE部分的筆記大部分從本書參考而來。
-
-<br>
 
 ## JAVA 基礎語法
 
