@@ -8,8 +8,8 @@
 ## JAVA 基礎語法
 
 <ul>
-<li><a href="#">變數、型別、運算子</a></li>
-<li><a href="#">判斷、迴圈</a></li>
+<li><a href="#">變數、型別、運算子及判斷式</a></li>
+<li><a href="#">迴圈</a></li>
 <li><a href="#">陣列</a></li>
 <li><a href="#">類、建構子、封裝</a></li>
 <li><a href="#">繼承</a></li>
