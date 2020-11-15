@@ -13,7 +13,6 @@
   <li><a href="#">陣列（和它愉快的衍生性夥伴們）</a></li>
 </ul>
 
-<br>
 
 ## JAVA 物件導向
 
@@ -22,7 +21,7 @@
   <li><a href="#">屬性</a></li>
   <li><a href="#">方法</a></li>
   <li><a href="#">內部類</a></li>
-  <li><a href="#">建構子</a></li>
+  <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/29#issuecomment-727538343">建構子</a></li>
   <li><a href="#">套件(package)</a></li>
   <li><a href="#">存取規則</a></li>
   <li><a href="#">繼承</a></li>
@@ -31,11 +30,8 @@
   <li><a href="#">介面vs抽象類</a></li>
   <li><a href="#"></a></li>
   
-  
-  
+    
 </ul>
-
-<br>
 
 ## JAVA 進階語法
 
