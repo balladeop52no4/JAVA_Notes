@@ -20,9 +20,6 @@
 </ul>
 
 <br>
-
-## JAVA 物件導向
-<br>
 <br>
 
 ## JAVA EE
