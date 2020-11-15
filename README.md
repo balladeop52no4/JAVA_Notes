@@ -30,8 +30,6 @@
   <li><a href="#">抽象類</a></li>
   <li><a href="#">介面</a></li>
   <li><a href="#">介面vs抽象類</a></li>
-  <li><a href="#"></a></li>
-  
     
 </ul>
 
