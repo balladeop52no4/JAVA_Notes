@@ -16,7 +16,7 @@
 </ul>
 
 
-### JAVA 物件導向
+### 物件導向
 
 <ul>
   <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/29#issue-743206245">類</a></li>
