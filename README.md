@@ -9,7 +9,7 @@
 
 <ul>
 <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/28#issue-728726766">變數、型別、運算子、判斷式及迴圈</a></li>
-<li><a href="#">陣列（和它的愉快衍生性夥伴們）</a></li>
+<li><a href="#">陣列（和它愉快的衍生性夥伴們）</a></li>
 <li><a href="#">類、建構子、封裝、繼承、多形、抽象類和介面</a></li>
 <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/26#issue-688290515">集合</a></li>
 <li><a href="#">泛型</a></li>
