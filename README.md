@@ -5,7 +5,9 @@
 
 <br>
 
-## JAVA 基礎語法
+## JAVA SE
+
+### 語法基礎
 
 <ul>
   <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/28#issue-728726766">變數、型別、運算子及判斷式</a></li>
@@ -14,7 +16,7 @@
 </ul>
 
 
-## JAVA 物件導向
+### JAVA 物件導向
 
 <ul>
   <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/29#issue-743206245">類</a></li>
@@ -33,7 +35,7 @@
     
 </ul>
 
-## JAVA 進階語法
+### JAVA 進階語法
 
 <ul>
   <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/26#issue-688290515">集合</a></li>
