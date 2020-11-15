@@ -11,10 +11,7 @@
 <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/28#issue-728726766">變數、型別、運算子及判斷式</a></li>
 <li><a href="#">迴圈</a></li>
 <li><a href="#">陣列</a></li>
-<li><a href="#">類、建構子、封裝</a></li>
-<li><a href="#">繼承</a></li>
-<li><a href="#">多形</a></li>
-<li><a href="#">抽象類和介面</a></li>
+<li><a href="#">類、建構子、封裝、繼承、多形、抽象類和介面</a></li>
 <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/26#issue-688290515">集合</a></li>
 <li><a href="#">泛型</a></li>
 <li><a href="#">多執行緒</a></li>
