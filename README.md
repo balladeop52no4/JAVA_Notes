@@ -46,5 +46,5 @@ JSP/Servlet學習的部分以線上課程<a href="https://www.udemy.com/course/j
   <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/20">Servlet基礎</a></li>
   <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/21">JSP基礎</a></li>
   <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/23">JDBC</a></li>
-  <!-- <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/22">總結專案-學生管理系統</a></li>
+  <li><a href="https://github.com/balladeop52no4/JAVA_Notes/issues/22">總結專案-學生管理系統</a></li>
 </ul>
